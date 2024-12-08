@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.cta {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #e6f7ff;
+    border-left: 5px solid #0073e6;
+}
+
+.links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.links li {
+    margin: 10px 0;
+}
+
+.links a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.links a:hover {
+    text-decoration: underline;
+} 
